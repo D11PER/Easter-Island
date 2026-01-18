@@ -1,0 +1,40 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("video-bg.jpg"); 
+    background-position: center;          
+    background-repeat: no-repeat;          
+    background-attachment: fixed;        
+    background-size: cover;                
+    font-family: Arial, sans-serif;
+}
+
+
+.top-block {
+    background-color: #151614;
+    height: 200px;
+}
+
+
+.middle-block {
+    height: 370px;
+    display: flex;
+    justify-content: center;   
+    align-items: center;      
+    text-align: center;
+    font-size: 32px;           
+    font-weight: bold;
+    color: #ffffff;            
+    letter-spacing: 2px;
+}
+
+
+.bottom-block {
+    background-color: #ffffff;
+    height: 2000px;
+}
+
+
+
+
